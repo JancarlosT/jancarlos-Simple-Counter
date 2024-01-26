@@ -1,12 +1,12 @@
+.box {
+    background-color: black;
+    text-align: center;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.conter{
+background-color: rgb(133, 133, 133);
+color: black;
+margin: 30px;
+padding: 30px;
+font-size: 50px;
+}
